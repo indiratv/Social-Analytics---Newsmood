@@ -22,10 +22,10 @@ analyzer = SentimentIntensityAnalyzer()
 
 
 # Twitter API Keys
-consumer_key = "wNC3lUy34Zm8YYOkzhgRWXo0A"
-consumer_secret = "Tgs4zKsSW05KmVhuZdvtXy3V7KXbGZdJJsG6BeWv3BwOl1CjGL"
-access_token = "943239523047235584-OhbdaN1nJYFHzrpVBbFzOMTxbQaRDaj"
-access_token_secret = "Rinpous00RQFCnvVMNWKxOgQZE5H0wxJ2GtjWSHGgq0uW"
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_token_secret = 
 
 # Setup Tweepy API Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
